@@ -1,6 +1,7 @@
 h1 {
     color: navy;
     margin-left: 20px;
+    display:inline;
   }
 
 
@@ -9,4 +10,6 @@ h2 {
     margin-left: 40px;
     border-style: solid;
     border-width: medium;
+    display:inline;
 }
+
